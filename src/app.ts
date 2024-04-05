@@ -26,5 +26,11 @@ const person = {
     city: "Bangladesh",
 }
 
-console.log(person.name);
+// console.log(person.name);
 
+// explicit & Union Types
+
+let a: string;
+let b: number;
+
+console.log("Hello! Hasan  ");
