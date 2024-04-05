@@ -17,4 +17,8 @@ const person = {
     age: 30,
     city: "Bangladesh",
 };
-console.log(person.name);
+// console.log(person.name);
+// explicit & Union Types
+let a;
+let b;
+console.log("Hello! Hasan  ");
